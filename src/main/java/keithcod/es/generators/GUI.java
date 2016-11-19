@@ -175,7 +175,7 @@ public class GUI {
     }
 
     public static void ShowEditGUI1(Player player) {
-        GUIWindowPaged window = new GUIWindowPaged("Select an item to generate");
+        GUIWindowPaged window = new GUIWindowPaged("Configure the Generator");
 
         Material[] allItems = Material.values();
 
