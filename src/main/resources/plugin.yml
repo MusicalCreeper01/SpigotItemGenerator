@@ -1,0 +1,9 @@
+name: Generators
+version: 1.0
+author: xNagisa_
+main: keithcod.es.generators.Generators
+commands:
+  gen:
+    description: Open the GUI for creating generators
+    usage: /gen
+    aliases: [generators, generator, gen]

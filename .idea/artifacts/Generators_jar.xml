@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Generators:jar">
+    <output-path>$PROJECT_DIR$/../../Spigot/plugins</output-path>
+    <root id="archive" name="Generators.jar">
+      <element id="module-output" name="Generators" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>
