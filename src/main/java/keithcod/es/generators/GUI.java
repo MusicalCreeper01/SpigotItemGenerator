@@ -348,7 +348,6 @@ public class GUI {
 
         List<Material> ignore = new ArrayList<Material>(Arrays.asList(
             Material.AIR,
-            Material.BARRIER,
             Material.BURNING_FURNACE,
             Material.STATIONARY_WATER,
             Material.WOOD_DOUBLE_STEP,
